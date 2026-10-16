@@ -1,0 +1,6 @@
+# Dataset (re-created by prepare_data.py)
+data/
+# Full training checkpoint (76MB); generator.pt is kept for generate.py
+checkpoints/last.pt
+__pycache__/
+*.pyc

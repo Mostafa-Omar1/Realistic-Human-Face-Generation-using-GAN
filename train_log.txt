@@ -1,0 +1,176 @@
+﻿Loaded 67533 faces of size (3, 64, 64) on cuda
+[1/25] step 0/527 loss_D 2.019 loss_G 4.925
+[1/25] step 100/527 loss_D 0.986 loss_G 9.774
+[1/25] step 200/527 loss_D 0.569 loss_G 2.907
+[1/25] step 300/527 loss_D 0.605 loss_G 4.448
+[1/25] step 400/527 loss_D 0.857 loss_G 6.398
+[1/25] step 500/527 loss_D 0.807 loss_G 3.075
+Epoch 1: loss_D 0.836 loss_G 6.169 D(x) 0.751 D(G(z)) 0.024 (67.0s)
+[2/25] step 0/527 loss_D 0.863 loss_G 4.263
+[2/25] step 100/527 loss_D 0.751 loss_G 2.866
+[2/25] step 200/527 loss_D 0.661 loss_G 3.787
+[2/25] step 300/527 loss_D 0.952 loss_G 6.858
+[2/25] step 400/527 loss_D 0.773 loss_G 5.877
+[2/25] step 500/527 loss_D 0.686 loss_G 4.782
+Epoch 2: loss_D 0.744 loss_G 4.554 D(x) 0.749 D(G(z)) 0.030 (63.3s)
+[3/25] step 0/527 loss_D 0.568 loss_G 3.851
+[3/25] step 100/527 loss_D 1.305 loss_G 3.455
+[3/25] step 200/527 loss_D 0.566 loss_G 4.877
+[3/25] step 300/527 loss_D 0.704 loss_G 3.429
+[3/25] step 400/527 loss_D 0.704 loss_G 4.155
+[3/25] step 500/527 loss_D 0.606 loss_G 3.257
+Epoch 3: loss_D 0.739 loss_G 4.134 D(x) 0.744 D(G(z)) 0.044 (63.7s)
+[4/25] step 0/527 loss_D 0.717 loss_G 6.865
+[4/25] step 100/527 loss_D 0.658 loss_G 4.631
+[4/25] step 200/527 loss_D 0.671 loss_G 3.758
+[4/25] step 300/527 loss_D 0.709 loss_G 2.453
+[4/25] step 400/527 loss_D 0.766 loss_G 2.273
+[4/25] step 500/527 loss_D 0.648 loss_G 3.628
+Epoch 4: loss_D 0.778 loss_G 3.781 D(x) 0.728 D(G(z)) 0.060 (80.8s)
+[5/25] step 0/527 loss_D 0.625 loss_G 3.693
+[5/25] step 100/527 loss_D 0.598 loss_G 3.208
+[5/25] step 200/527 loss_D 1.098 loss_G 5.648
+[5/25] step 300/527 loss_D 0.645 loss_G 2.627
+[5/25] step 400/527 loss_D 0.585 loss_G 3.356
+[5/25] step 500/527 loss_D 1.046 loss_G 4.479
+Epoch 5: loss_D 0.792 loss_G 3.284 D(x) 0.719 D(G(z)) 0.084 (89.1s)
+[6/25] step 0/527 loss_D 0.673 loss_G 2.943
+[6/25] step 100/527 loss_D 0.813 loss_G 2.066
+[6/25] step 200/527 loss_D 0.658 loss_G 3.053
+[6/25] step 300/527 loss_D 0.737 loss_G 2.471
+[6/25] step 400/527 loss_D 0.722 loss_G 3.209
+[6/25] step 500/527 loss_D 0.850 loss_G 1.700
+Epoch 6: loss_D 0.842 loss_G 2.945 D(x) 0.697 D(G(z)) 0.108 (89.3s)
+[7/25] step 0/527 loss_D 1.249 loss_G 3.992
+[7/25] step 100/527 loss_D 0.626 loss_G 2.602
+[7/25] step 200/527 loss_D 0.877 loss_G 1.598
+[7/25] step 300/527 loss_D 0.829 loss_G 3.376
+[7/25] step 400/527 loss_D 1.074 loss_G 0.815
+[7/25] step 500/527 loss_D 0.809 loss_G 2.172
+Epoch 7: loss_D 0.839 loss_G 2.742 D(x) 0.693 D(G(z)) 0.120 (89.3s)
+[8/25] step 0/527 loss_D 0.551 loss_G 2.823
+[8/25] step 100/527 loss_D 0.690 loss_G 3.042
+[8/25] step 200/527 loss_D 0.922 loss_G 3.198
+[8/25] step 300/527 loss_D 1.012 loss_G 1.726
+[8/25] step 400/527 loss_D 0.879 loss_G 1.826
+[8/25] step 500/527 loss_D 0.662 loss_G 2.123
+Epoch 8: loss_D 0.837 loss_G 2.717 D(x) 0.691 D(G(z)) 0.124 (89.3s)
+[9/25] step 0/527 loss_D 0.672 loss_G 2.144
+[9/25] step 100/527 loss_D 0.673 loss_G 3.038
+[9/25] step 200/527 loss_D 0.784 loss_G 3.004
+[9/25] step 300/527 loss_D 0.685 loss_G 2.308
+[9/25] step 400/527 loss_D 1.018 loss_G 3.391
+[9/25] step 500/527 loss_D 1.561 loss_G 1.816
+Epoch 9: loss_D 0.862 loss_G 2.662 D(x) 0.687 D(G(z)) 0.129 (88.8s)
+[10/25] step 0/527 loss_D 0.612 loss_G 3.039
+[10/25] step 100/527 loss_D 0.793 loss_G 1.554
+[10/25] step 200/527 loss_D 0.823 loss_G 2.170
+[10/25] step 300/527 loss_D 0.652 loss_G 2.187
+[10/25] step 400/527 loss_D 0.551 loss_G 3.347
+[10/25] step 500/527 loss_D 0.747 loss_G 2.004
+Epoch 10: loss_D 0.815 loss_G 2.679 D(x) 0.696 D(G(z)) 0.125 (89.5s)
+[11/25] step 0/527 loss_D 0.626 loss_G 2.962
+[11/25] step 100/527 loss_D 0.967 loss_G 2.291
+[11/25] step 200/527 loss_D 0.694 loss_G 3.958
+[11/25] step 300/527 loss_D 2.086 loss_G 0.948
+[11/25] step 400/527 loss_D 0.862 loss_G 1.353
+[11/25] step 500/527 loss_D 0.669 loss_G 2.741
+Epoch 11: loss_D 0.818 loss_G 2.710 D(x) 0.696 D(G(z)) 0.122 (89.5s)
+[12/25] step 0/527 loss_D 0.830 loss_G 1.330
+[12/25] step 100/527 loss_D 0.982 loss_G 3.101
+[12/25] step 200/527 loss_D 0.663 loss_G 2.962
+[12/25] step 300/527 loss_D 0.741 loss_G 1.909
+[12/25] step 400/527 loss_D 1.207 loss_G 5.232
+[12/25] step 500/527 loss_D 0.633 loss_G 1.953
+Epoch 12: loss_D 0.836 loss_G 2.721 D(x) 0.696 D(G(z)) 0.124 (67.4s)
+[13/25] step 0/527 loss_D 4.482 loss_G 0.764
+[13/25] step 100/527 loss_D 0.902 loss_G 3.838
+[13/25] step 200/527 loss_D 0.696 loss_G 1.690
+[13/25] step 300/527 loss_D 0.679 loss_G 3.000
+[13/25] step 400/527 loss_D 0.610 loss_G 3.085
+[13/25] step 500/527 loss_D 0.973 loss_G 1.362
+Epoch 13: loss_D 0.835 loss_G 2.727 D(x) 0.693 D(G(z)) 0.119 (75.8s)
+[14/25] step 0/527 loss_D 0.671 loss_G 2.762
+[14/25] step 100/527 loss_D 0.871 loss_G 1.429
+[14/25] step 200/527 loss_D 0.656 loss_G 2.498
+[14/25] step 300/527 loss_D 0.606 loss_G 2.813
+[14/25] step 400/527 loss_D 0.554 loss_G 3.246
+[14/25] step 500/527 loss_D 1.121 loss_G 5.687
+Epoch 14: loss_D 0.811 loss_G 2.778 D(x) 0.699 D(G(z)) 0.114 (89.6s)
+[15/25] step 0/527 loss_D 0.631 loss_G 3.496
+[15/25] step 100/527 loss_D 0.734 loss_G 1.836
+[15/25] step 200/527 loss_D 0.736 loss_G 1.848
+[15/25] step 300/527 loss_D 1.173 loss_G 4.524
+[15/25] step 400/527 loss_D 0.692 loss_G 3.343
+[15/25] step 500/527 loss_D 0.764 loss_G 2.564
+Epoch 15: loss_D 0.847 loss_G 2.786 D(x) 0.693 D(G(z)) 0.119 (89.3s)
+[16/25] step 0/527 loss_D 0.764 loss_G 1.785
+[16/25] step 100/527 loss_D 0.913 loss_G 4.121
+[16/25] step 200/527 loss_D 1.743 loss_G 5.134
+[16/25] step 300/527 loss_D 1.013 loss_G 3.820
+[16/25] step 400/527 loss_D 1.114 loss_G 4.928
+[16/25] step 500/527 loss_D 0.680 loss_G 1.994
+Epoch 16: loss_D 0.816 loss_G 2.791 D(x) 0.699 D(G(z)) 0.116 (89.3s)
+[17/25] step 0/527 loss_D 0.772 loss_G 2.268
+[17/25] step 100/527 loss_D 0.788 loss_G 2.104
+[17/25] step 200/527 loss_D 0.879 loss_G 3.828
+[17/25] step 300/527 loss_D 0.673 loss_G 2.652
+[17/25] step 400/527 loss_D 1.544 loss_G 5.823
+[17/25] step 500/527 loss_D 0.636 loss_G 2.547
+Epoch 17: loss_D 0.792 loss_G 2.860 D(x) 0.709 D(G(z)) 0.110 (89.3s)
+[18/25] step 0/527 loss_D 0.564 loss_G 3.310
+[18/25] step 100/527 loss_D 0.876 loss_G 1.058
+[18/25] step 200/527 loss_D 0.650 loss_G 2.346
+[18/25] step 300/527 loss_D 0.840 loss_G 4.035
+[18/25] step 400/527 loss_D 0.724 loss_G 3.768
+[18/25] step 500/527 loss_D 0.673 loss_G 3.615
+Epoch 18: loss_D 0.781 loss_G 2.937 D(x) 0.715 D(G(z)) 0.107 (89.3s)
+[19/25] step 0/527 loss_D 0.753 loss_G 2.081
+[19/25] step 100/527 loss_D 1.349 loss_G 5.336
+[19/25] step 200/527 loss_D 0.655 loss_G 2.956
+[19/25] step 300/527 loss_D 0.646 loss_G 2.196
+[19/25] step 400/527 loss_D 0.649 loss_G 2.115
+[19/25] step 500/527 loss_D 0.731 loss_G 4.096
+Epoch 19: loss_D 0.795 loss_G 2.901 D(x) 0.719 D(G(z)) 0.110 (89.3s)
+[20/25] step 0/527 loss_D 0.641 loss_G 2.323
+[20/25] step 100/527 loss_D 0.612 loss_G 3.815
+[20/25] step 200/527 loss_D 0.598 loss_G 3.381
+[20/25] step 300/527 loss_D 0.609 loss_G 2.918
+[20/25] step 400/527 loss_D 0.834 loss_G 4.127
+[20/25] step 500/527 loss_D 0.570 loss_G 2.444
+Epoch 20: loss_D 0.723 loss_G 3.024 D(x) 0.737 D(G(z)) 0.098 (89.3s)
+[21/25] step 0/527 loss_D 0.539 loss_G 2.824
+[21/25] step 100/527 loss_D 0.543 loss_G 2.313
+[21/25] step 200/527 loss_D 2.721 loss_G 1.202
+[21/25] step 300/527 loss_D 0.618 loss_G 1.774
+[21/25] step 400/527 loss_D 0.973 loss_G 5.043
+[21/25] step 500/527 loss_D 0.676 loss_G 4.318
+Epoch 21: loss_D 0.799 loss_G 2.953 D(x) 0.724 D(G(z)) 0.112 (89.3s)
+[22/25] step 0/527 loss_D 1.369 loss_G 6.533
+[22/25] step 100/527 loss_D 0.676 loss_G 4.455
+[22/25] step 200/527 loss_D 0.544 loss_G 2.496
+[22/25] step 300/527 loss_D 0.523 loss_G 2.564
+[22/25] step 400/527 loss_D 0.511 loss_G 2.727
+[22/25] step 500/527 loss_D 0.653 loss_G 1.776
+Epoch 22: loss_D 0.709 loss_G 3.102 D(x) 0.747 D(G(z)) 0.093 (89.3s)
+[23/25] step 0/527 loss_D 0.721 loss_G 1.991
+[23/25] step 100/527 loss_D 0.922 loss_G 1.986
+[23/25] step 200/527 loss_D 0.467 loss_G 3.404
+[23/25] step 300/527 loss_D 1.530 loss_G 1.179
+[23/25] step 400/527 loss_D 0.522 loss_G 3.109
+[23/25] step 500/527 loss_D 0.749 loss_G 2.533
+Epoch 23: loss_D 0.709 loss_G 3.182 D(x) 0.749 D(G(z)) 0.091 (89.3s)
+[24/25] step 0/527 loss_D 0.687 loss_G 4.520
+[24/25] step 100/527 loss_D 0.494 loss_G 2.951
+[24/25] step 200/527 loss_D 0.588 loss_G 2.072
+[24/25] step 300/527 loss_D 0.664 loss_G 3.051
+[24/25] step 400/527 loss_D 0.547 loss_G 3.073
+[24/25] step 500/527 loss_D 1.317 loss_G 4.914
+Epoch 24: loss_D 0.703 loss_G 3.229 D(x) 0.754 D(G(z)) 0.088 (89.3s)
+[25/25] step 0/527 loss_D 0.598 loss_G 2.810
+[25/25] step 100/527 loss_D 0.523 loss_G 2.769
+[25/25] step 200/527 loss_D 0.496 loss_G 2.956
+[25/25] step 300/527 loss_D 1.303 loss_G 0.925
+[25/25] step 400/527 loss_D 0.477 loss_G 3.571
+[25/25] step 500/527 loss_D 0.518 loss_G 3.050
+Epoch 25: loss_D 0.690 loss_G 3.256 D(x) 0.762 D(G(z)) 0.087 (89.3s)
